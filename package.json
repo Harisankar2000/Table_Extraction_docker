@@ -1,0 +1,17 @@
+{
+  "name": "apryse_demo_layer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pdftron/data-extraction": "^10.5.0",
+    "@pdftron/pdfnet-node": "^10.5.0",
+    "@pdftron/pdfnet-node-samples": "^10.5.0",
+    "aws-sdk": "^2.1502.0"
+  } 
+}
